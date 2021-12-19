@@ -1,4 +1,5 @@
 해당 파일들은 KoBERT 다중분류 모델을 이용한 감정분석 기반 영화 추천 시스템 연구(A study on the Movie Recommendation System based on Emotional Analysis using the KoBERT Multi-classification Model)에 사용되었습니다.
+모든 자료는 네이버 영화 서비스로부터 수집되되었습니다.
 
 movie_data(20211120)_1_50.xlsx
 movie_data(20211120)_51_100.xlsx
@@ -11,3 +12,6 @@ review_data(20211120)_51_100.xlsx
 review_data(20211120)_101_150.xlsx
 review_data(20211120)_151_200.xlsx
 : 영화 상세 정보 파일들에 포함된 영화들에 대해 수집된 한줄평 중 결측치를 제거한  644,030 문장입니다.
+
+Naver_Movie_Review_Crawler.ipynb
+: 네이버 영화 서비스 내 평점순 페이지에서 영화 상세정보와 한줄평을 수집하는 코드입니다. Google Colaboratory를 통해 생성, 실행되었습니다.
