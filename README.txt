@@ -5,7 +5,7 @@ movie_data(20211120)_1_50.xlsx
 movie_data(20211120)_51_100.xlsx
 movie_data(20211120)_101_150.xlsx
 movie_data(20211120)_151_200.xlsx
-: 2021년 11월 20일 기준 네이버 영화 평점순 1위부터 200위까지의 영화 중 예외처리되지 않은 영화 104개의 상세 정보입니다. 수집된 영화 상세 정보는 movie_index(수집된 영화 index), movie_code(영화의 고유코드), movie_title(영화 제목), movie_genre(영화 장르), movie_director(영화 감독), movie_actor(주연 배우), movie_story(줄거리), movie_date(개봉일), review_num(리뷰 수), movie_link(영화 상세정보 페이지 링크), date(개봉년도), moive_time(상영시간), movie_rate(평점)입니다.
+: 2021년 11월 20일 기준 네이버 영화 평점순 1위부터 200위까지의 영화 중 예외처리되지 않은 영화 105개의 상세 정보입니다. 수집된 영화 상세 정보는 movie_index(수집된 영화 index), movie_code(영화의 고유코드), movie_title(영화 제목), movie_genre(영화 장르), movie_director(영화 감독), movie_actor(주연 배우), movie_story(줄거리), movie_date(개봉일), review_num(리뷰 수), movie_link(영화 상세정보 페이지 링크), date(개봉년도), moive_time(상영시간), movie_rate(평점)입니다.
 
 review_data(20211120)_1_50.xlsx
 review_data(20211120)_51_100.xlsx
