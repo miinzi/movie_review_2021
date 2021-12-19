@@ -1,5 +1,5 @@
 해당 파일들은 KoBERT 다중분류 모델을 이용한 감정분석 기반 영화 추천 시스템 연구(A study on the Movie Recommendation System based on Emotional Analysis using the KoBERT Multi-classification Model)에 사용되었습니다.
-모든 자료는 네이버 영화 서비스로부터 수집되되었습니다.
+모든 자료는 네이버 영화 서비스로부터 수집되었습니다.
 
 movie_data(20211120)_1_50.xlsx
 movie_data(20211120)_51_100.xlsx
