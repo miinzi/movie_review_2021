@@ -15,3 +15,5 @@ review_data(20211120)_151_200.xlsx
 
 Naver_Movie_Review_Crawler.ipynb
 : 네이버 영화 서비스 내 평점순 페이지에서 영화 상세정보와 한줄평을 수집하는 코드입니다. Google Colaboratory를 통해 생성, 실행되었습니다.
+
+testing collaborator
